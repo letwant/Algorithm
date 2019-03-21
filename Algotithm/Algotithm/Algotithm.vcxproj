@@ -156,7 +156,9 @@
     <ClInclude Include="..\include\chapter_9_comprehensive _question.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="3_4_递归于分治思想.cpp" />
     <ClCompile Include="chapter1.cpp" />
+    <ClCompile Include="chapter_3_output.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -1,7 +1,9 @@
-#include "chapter_1_data_structure_basis.h"
+#include <iostream>
+#include "chapter_3_ common _algorithmic _ideas .h"
+using namespace std;
 
 int main()
 {
-	fun();
+	POut();
 	return 0;
 }

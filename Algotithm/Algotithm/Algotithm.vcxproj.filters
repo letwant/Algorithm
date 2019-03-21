@@ -16,6 +16,9 @@
     <Filter Include="源文件\chapter_1_data_structure_babsic">
       <UniqueIdentifier>{754aee4f-02c9-4fe1-98b7-a07b0d78748b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\chapter_3_ common _algorithmic _ideas">
+      <UniqueIdentifier>{59fb1149-277d-4b20-b9aa-136224938602}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\include\chapter_1_data_structure_basis.h">
@@ -52,6 +55,12 @@
     </ClCompile>
     <ClCompile Include="chapter1.cpp">
       <Filter>源文件\chapter_1_data_structure_babsic</Filter>
+    </ClCompile>
+    <ClCompile Include="3_4_递归于分治思想.cpp">
+      <Filter>源文件\chapter_3_ common _algorithmic _ideas</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter_3_output.cpp">
+      <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
