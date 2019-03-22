@@ -29,6 +29,11 @@ int binSearch(int key[], int low, int high, int k)
 void binSearchOutput()
 {
 	int key[] = { 1, 3, 5, 7, 9, 12, 14, 15, 19 };
+	cout << "The array is" << endl;
+	for (int i = 0; i < 9; i++)
+		cout << key[i] << " ";
+	cout << endl;
 	int value = binSearch(key, 0, 8, 19);
-	cout << value << endl;
+	cout << "Search 19" << endl;
+	cout << "The index is " << value << endl;
 }

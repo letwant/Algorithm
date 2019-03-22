@@ -11,3 +11,5 @@ void POut();
 //二分查找的递归实现
 int binSearch(int key[], int low, int high, int k);
 void binSearchOutput();
+
+void loadOutput();

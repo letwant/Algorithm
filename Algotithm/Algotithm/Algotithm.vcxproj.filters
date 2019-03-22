@@ -62,5 +62,8 @@
     <ClCompile Include="chapter_3_output.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3_5贪心算法思想.cpp">
+      <Filter>源文件\chapter_3_ common _algorithmic _ideas</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
