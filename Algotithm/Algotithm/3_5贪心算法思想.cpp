@@ -40,11 +40,19 @@ void load(int w[], int x[], int c, int n)
 void loadOutput()
 {
 	int c = 13;
-	int w[5] = { 7, 3, 5, 4, 6 };
+	cout << "最大重量为" << c << endl;
+	int w[5] = { 4, 3, 5, 2, 6 };
+	cout << "每个货船重量为" << endl;
+	for (int i = 0; i < 5; i++)
+		cout << w[i] << " ";
+	cout << endl;
 	int *x = new int[5];
 	load(w, x, c, 5);
+	cout << "要装船的货箱下标为" << endl;
 	for (int i = 0; i < 5; i++)
 	{
-		cout << x[i] << endl;
+		if (x[i] == 1)
+			cout << i << " ";
 	}
+	cout << endl;
 }
