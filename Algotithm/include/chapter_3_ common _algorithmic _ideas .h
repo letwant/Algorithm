@@ -15,3 +15,5 @@ void binSearchOutput();
 void loadOutput();
 
 void QueueOutput();
+
+void DartsOutput();
