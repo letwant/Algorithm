@@ -13,3 +13,5 @@ int binSearch(int key[], int low, int high, int k);
 void binSearchOutput();
 
 void loadOutput();
+
+void QueueOutput();

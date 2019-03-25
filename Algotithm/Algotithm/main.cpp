@@ -8,5 +8,6 @@ int main()
 	POut();
 	binSearchOutput();
 	loadOutput();
+	QueueOutput();
 	return 0;
 }
