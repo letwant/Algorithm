@@ -5,10 +5,6 @@ using namespace std;
 
 int main()
 {
-	//POut();
-	//binSearchOutput();
-	//loadOutput();
-	//QueueOutput();
-	DartsOutput();
+	chapterThreeOutput();
 	return 0;
 }
