@@ -3,3 +3,5 @@ using namespace std;
 
 void chapterFourOutput();
 void characterStatistics();
+
+void charToASC¢ò();

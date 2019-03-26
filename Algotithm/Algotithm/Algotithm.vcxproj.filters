@@ -83,5 +83,8 @@
     <ClCompile Include="chapter4_output.cpp">
       <Filter>源文件\chapter_4_basic _programming _skills</Filter>
     </ClCompile>
+    <ClCompile Include="4_2_计算字符串的ASCⅡ码.cpp">
+      <Filter>源文件\chapter_4_basic _programming _skills</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
