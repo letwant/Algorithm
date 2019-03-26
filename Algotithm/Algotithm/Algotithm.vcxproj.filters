@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\chapter_1_data_structure_babsic">
+      <UniqueIdentifier>{754aee4f-02c9-4fe1-98b7-a07b0d78748b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\chapter_3_ common _algorithmic _ideas">
+      <UniqueIdentifier>{59fb1149-277d-4b20-b9aa-136224938602}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\include\chapter_1_data_structure_basis.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\chapter_2_common_search_and_sort_method.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\chapter_3_ common _algorithmic _ideas .h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\chapter_4_basic _programming _skills.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\chapter_5_mathematical _interest1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\chapter_6_mathematical interest2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\chapter_7_data_structure_interest.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\chapter_8_numerical _calculation _problem.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\chapter_9_comprehensive _question.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter1.cpp">
+      <Filter>源文件\chapter_1_data_structure_babsic</Filter>
+    </ClCompile>
+    <ClCompile Include="3_4_递归于分治思想.cpp">
+      <Filter>源文件\chapter_3_ common _algorithmic _ideas</Filter>
+    </ClCompile>
+    <ClCompile Include="3_5贪心算法思想.cpp">
+      <Filter>源文件\chapter_3_ common _algorithmic _ideas</Filter>
+    </ClCompile>
+    <ClCompile Include="3_6_回溯法思想.cpp">
+      <Filter>源文件\chapter_3_ common _algorithmic _ideas</Filter>
+    </ClCompile>
+    <ClCompile Include="3_7_数值概率算法思想.cpp">
+      <Filter>源文件\chapter_3_ common _algorithmic _ideas</Filter>
+    </ClCompile>
+    <ClCompile Include="爬楼梯.cpp">
+      <Filter>源文件\chapter_3_ common _algorithmic _ideas</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter_3_output.cpp">
+      <Filter>源文件\chapter_3_ common _algorithmic _ideas</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -16,7 +16,6 @@ double Darts(int n)
 			Num++;
 		i++;
 	}
-	cout << Num << endl;
 	return (double)Num / (double)n;
 }
 

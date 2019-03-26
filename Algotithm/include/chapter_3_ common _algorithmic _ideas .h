@@ -15,3 +15,5 @@ void QueueOutput();
 void DartsOutput();
 
 void UpStairsOutput();
+
+void UpStairsAllOutput();
