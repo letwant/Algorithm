@@ -2,5 +2,6 @@
 
 void chapterFourOutput() {
 	//characterStatistics();
-	charToASC¢ò();
+	//charToASC¢ò();
+	judgeScoreOutput();
 }

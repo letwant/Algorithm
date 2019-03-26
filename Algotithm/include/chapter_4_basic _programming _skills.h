@@ -5,3 +5,4 @@ void chapterFourOutput();
 void characterStatistics();
 
 void charToASC¢ò();
+void judgeScoreOutput();

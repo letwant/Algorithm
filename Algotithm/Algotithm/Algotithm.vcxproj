@@ -162,6 +162,7 @@
     <ClCompile Include="3_5_贪心算法思想.cpp" />
     <ClCompile Include="4_1_字符类型统计器.cpp" />
     <ClCompile Include="4_2_计算字符串的ASCⅡ码.cpp" />
+    <ClCompile Include="4_3_嵌套if-else语句的妙用.cpp" />
     <ClCompile Include="chapter1.cpp" />
     <ClCompile Include="chapter4_output.cpp" />
     <ClCompile Include="chapter_3_output.cpp" />
