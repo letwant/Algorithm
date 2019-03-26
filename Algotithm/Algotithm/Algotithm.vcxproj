@@ -159,8 +159,10 @@
   <ItemGroup>
     <ClCompile Include="3_4_递归于分治思想.cpp" />
     <ClCompile Include="3_6_回溯法思想.cpp" />
-    <ClCompile Include="3_5贪心算法思想.cpp" />
+    <ClCompile Include="3_5_贪心算法思想.cpp" />
+    <ClCompile Include="4_1_字符类型统计器.cpp" />
     <ClCompile Include="chapter1.cpp" />
+    <ClCompile Include="chapter4_output.cpp" />
     <ClCompile Include="chapter_3_output.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="3_7_数值概率算法思想.cpp" />

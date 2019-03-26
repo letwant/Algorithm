@@ -36,7 +36,7 @@ void UpStairs1(int footStep, int count, int steps)
 	{
 		step[steps] = footStep;
 		cnt++;
-		for (int i = 0; i < steps; i++)
+		for (int i = 0; i <= steps; i++)
 			cout << step[i] << " ";
 		cout << endl;
 		return;

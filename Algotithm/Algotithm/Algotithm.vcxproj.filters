@@ -19,6 +19,9 @@
     <Filter Include="源文件\chapter_3_ common _algorithmic _ideas">
       <UniqueIdentifier>{59fb1149-277d-4b20-b9aa-136224938602}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\chapter_4_basic _programming _skills">
+      <UniqueIdentifier>{153f50d4-f4fc-4039-89a4-1d82e9816c01}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\include\chapter_1_data_structure_basis.h">
@@ -59,9 +62,6 @@
     <ClCompile Include="3_4_递归于分治思想.cpp">
       <Filter>源文件\chapter_3_ common _algorithmic _ideas</Filter>
     </ClCompile>
-    <ClCompile Include="3_5贪心算法思想.cpp">
-      <Filter>源文件\chapter_3_ common _algorithmic _ideas</Filter>
-    </ClCompile>
     <ClCompile Include="3_6_回溯法思想.cpp">
       <Filter>源文件\chapter_3_ common _algorithmic _ideas</Filter>
     </ClCompile>
@@ -73,6 +73,15 @@
     </ClCompile>
     <ClCompile Include="chapter_3_output.cpp">
       <Filter>源文件\chapter_3_ common _algorithmic _ideas</Filter>
+    </ClCompile>
+    <ClCompile Include="3_5_贪心算法思想.cpp">
+      <Filter>源文件\chapter_3_ common _algorithmic _ideas</Filter>
+    </ClCompile>
+    <ClCompile Include="4_1_字符类型统计器.cpp">
+      <Filter>源文件\chapter_4_basic _programming _skills</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter4_output.cpp">
+      <Filter>源文件\chapter_4_basic _programming _skills</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
